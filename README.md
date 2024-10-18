@@ -1,4 +1,5 @@
 # workshop-git
 ## scriu ce vreau eu aici sa ne intelegem
 
-#### ceva scris pe ecran - gigel
+
+nu vreau gigel pe ecran, hahaha,  ceva scris pe ecran - gigel
